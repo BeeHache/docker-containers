@@ -1,5 +1,5 @@
 FROM debian:stable
-MAINTAINER Amin Jams <aminjam@outlook.com>
+MAINTAINER BeeHache <bh@blackhacker.net>
 
 ################## BEGIN INSTALLATION ######################
 RUN export DEBIAN_FRONTEND=noninteractive && \
