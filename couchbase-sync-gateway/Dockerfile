@@ -1,5 +1,5 @@
-FROM debian:latest
-MAINTAINER Amin Jams <aminjam@outlook.com>
+FROM debian:stable
+MAINTAINER BeeHache <bh@blackhacker.net>
 
 ################## BEGIN INSTALLATION ######################
 ENV SYNC_GATEWAY_VERSION 1.0.3
